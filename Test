@@ -1,0 +1,32 @@
+"info": {
+		"_postman_id": "0a2c93b4-f78d-4e75-a1b7-f986ac121ad0",
+		"name": "SaltPay",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET User details",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "User details for requesting SaltPay client "
+			},
+			"response": []
+		},
+		{
+			"name": "POST User details",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "POST User details for SaltPay clients"
+			},
+			"response": []
+		}
+	]
+}
